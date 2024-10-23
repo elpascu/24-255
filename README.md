@@ -8,4 +8,4 @@ Como pueden comezar los usuarios con el proyecto.
 Donde pueden recibir ayuda los usuarios con tu proyecto.
 Quien mantiene y contribuye con el proyecto.
 //
-Commir en Main
+Commit en Main
