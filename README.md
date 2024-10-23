@@ -1,4 +1,4 @@
-# Puteroooo
+# 1 trabajo
 #24-255
 #Ferran 23/10/2024
 //
